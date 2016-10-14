@@ -1,4 +1,6 @@
 # lvlsample
+# avoid dirty coding
+
 جلوگیری از چرک نویسی
 
 مربوط به ویدیو آموزشی :
